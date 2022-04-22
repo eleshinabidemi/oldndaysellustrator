@@ -1,0 +1,122 @@
+*{
+    font-family: "roboto", sans-serif;
+    
+}
+
+body {
+    background-color: #FFFAF3;
+}
+.navigationbar {
+    background-color: #FFD5A3;
+    margin-top: -10px;
+    margin-right: -7px;
+    margin-left: -10px;
+    box-shadow: black;
+}
+
+.illustrator {
+    padding-top: 5px;
+}
+
+.explore {
+    margin-left: 20px;
+    margin-top: 0px;
+    text-decoration: none;
+    font-size: large;
+    color:#FFD5A3;
+}
+
+.tik {
+    padding-left: 170px;
+    margin-top: -35px;
+}
+
+.searchbar {
+    height: 35px;
+    width: 350px;
+    border-radius: 50px;
+    padding-left: 20px;
+    border-style: none;
+}
+
+.buts{
+    padding-left: 1230px;
+    padding-bottom: 10px;
+}
+
+.logins {
+    width: 120px;
+    height: 35px;
+    border-radius: 50px;
+    border-style: none;
+    background-color: white;
+}
+
+.eliminatetop {
+    margin-top: -35px;
+}
+.topnav {
+    padding-left: 450px;
+    margin-top: -30px;
+
+}
+
+.log {
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+.whole-body {
+    background-color: white;
+    border-radius: 30px;
+    width: 1000px;
+    height: 500px;
+    padding-left: 100px;
+    border-style: groove;
+    border-color: #403D3D;
+    margin-left: 145px;
+    margin-top: 40px;
+}
+.inner-body {
+    margin-top: 50px;
+}
+
+.header {
+    font-size: 30px;
+}
+
+#inputheaders {
+    font-size: 20px;
+    margin-bottom: -2px;
+}
+
+.inputfield {
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.submit {
+    width: 400px;
+    height: 50px;
+    background-color: #403D3D;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.question {
+    margin-left: 80px;
+}
+
+.screen {
+    float: right;
+    margin-top: -300px;
+}
+
+.screenpack {
+    margin-top: -100px;
+}

@@ -1,0 +1,167 @@
+*{
+    font-family: "roboto", sans-serif;
+}
+
+body {
+    background-color: #FFFAF3;
+}
+.navigationbar {
+    background-color: #FFD5A3;
+    margin-top: -10px;
+    margin-right: -7px;
+    margin-left: -10px;
+    box-shadow: black;
+}
+
+.tik {
+    padding-left: 170px;
+    margin-top: -35px;
+}
+
+.explore {
+    margin-left: 20px;
+    margin-top: 0px;
+    text-decoration: none;
+    font-size: large;
+    color:#403D3D;
+}
+
+.bar {
+    padding-left: 350px;
+    margin-top: -40px;
+}
+
+.illustrator {
+    padding-top: 5px;
+}
+
+.log {
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+.buts{
+    padding-left: 1100px;
+    padding-bottom: 10px;
+}
+
+.logins {
+    width: 120px;
+    height: 35px;
+    border-radius: 50px;
+    border-style: none;
+    background-color: white;
+}
+.eliminatetop {
+    margin-top: -35px;
+}
+.topnav {
+    padding-left: 450px;
+    margin-top: -30px;
+
+}
+
+.searchbar {
+    height: 35px;
+    width: 350px;
+    border-radius: 50px;
+    padding-left: 20px;
+    border-style: none;
+}
+
+.secfont {
+    font-size: 50px;
+    color: #403D3D;
+    padding-bottom: -10px;
+}
+.prifont {
+    margin-bottom: 70px;
+    margin-top: -25px;
+    font-size: 35px ;
+    color: #403D3D;
+}
+
+.start {
+    height: 65px;
+    width: 210px;
+    background-color: #403D3D;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 20px;
+    font-size:xx-large ;
+    cursor: pointer;
+}
+
+.eleshin {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+}
+
+.profile {
+    padding-top: 50px;
+}
+
+.review {
+    font-size: 20px;
+    color: #403D3D;
+    padding-left: 80px;
+    margin-top: -60px;    
+}
+
+.laststep {
+    background-color: #403D3D;
+    color: white;
+    border-radius: 20px;
+    width: 1000px;
+    height: 150px;
+    margin-bottom: -30px;
+}
+
+.footericon {
+    width: 40px;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+
+.design {
+    padding-left: 400px;
+    margin-top: -350px;
+    padding-bottom: 100px;
+}
+
+.footericon01 {
+    width: 40px;
+    height: 30px;
+    padding-left: 500px;
+    padding-top: -30px;
+}
+
+.shake {
+    margin-top: -65px;
+}
+
+.footertext {
+    padding-left: 60px;
+    margin-top:-54px;
+}
+
+.wholebody {
+    padding-top: 50px;
+    padding-left: 13%;
+}
+.footertext02 {
+    padding-left: 558px;
+    margin-top: -50px;
+}
+
+.busbrief {
+    margin-top: -30px;
+}
+
+.footer {
+    padding-left: 30px;
+}

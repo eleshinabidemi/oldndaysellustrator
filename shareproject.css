@@ -1,0 +1,158 @@
+*{
+    font-family: "roboto", sans-serif;
+}
+
+.body {
+    background-color: #FFFAF3;
+}
+.navigationbar {
+    background-color: #FFD5A3;
+    margin-top: -10px;
+    margin-right: px;
+    margin-left: -5px;
+    box-shadow: black;
+}
+
+.illustrator {
+    margin-top: 10px;
+    padding-right: 0%;
+}
+
+.for-you {
+    margin-left: 20px;
+    padding-bottom: 0px;
+    text-decoration: none;
+    font-size: large;
+    color: #403D3D;
+}
+
+.explore {
+    margin-left: 20px;
+    margin-top: 0px;
+    text-decoration: none;
+    font-size: large;
+    color: #403D3D;
+}
+
+.tok {
+    padding-left: 270px;
+    margin-top: -25px;
+}
+
+
+.tik {
+    padding-left: 170px;
+    margin-top: -25px;
+}
+
+.searchbar {
+    height: 35px;
+    width: 350px;
+    border-radius: 50px;
+    padding-left: 20px;
+    border-style: none;
+}
+
+.buts{
+    padding-left: 1000px;
+    padding-bottom: 10px;
+}
+
+.logins {
+    width: 150px;
+    height: 35px;
+    border-radius: 50px;
+    border-style: none;
+    background-color: white;
+}
+
+.getsized {
+    height: 35px;
+    width: 35px;
+    float: right;
+    margin-top: -44px;
+    margin-right: 140px;
+}
+
+.resize {
+    height: 35px;
+    width: 35px;
+    float: right;
+    margin-top: -44px;
+    margin-right: 80px;
+}
+
+.profile-picture {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    float: right;
+    margin-top: -50px;
+    margin-right: 10px;
+}
+
+.eliminatetop {
+    margin-top: -35px;
+}
+.topnav {
+    padding-left: 450px;
+    margin-top: -30px;
+
+}
+
+.log {
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+.imagebox {
+    height: 400px;
+    width: 600px;
+    border-style: dashed;
+    border-color: #403D3D;
+    border-radius: 20px;
+}
+
+.two-buttons{
+    height: 40px;
+    width: 100px;
+    background-color: #403D3D;
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 10px;
+}
+#left {
+    margin-left: 20px;
+}
+
+#upright {
+    float: right;
+    margin-right: 20px;
+}
+
+.imagebox {
+    margin-left: 360px;
+    margin-top: 20px;
+}
+
+.choosefile {
+    font-size: large;
+    padding-right: 550px;
+    float: right;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.caption {
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 360px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    font-size: large;
+    background-color: #403d3d15;
+}

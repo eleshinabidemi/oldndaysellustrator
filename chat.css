@@ -1,0 +1,182 @@
+*{
+    font-family: "roboto", sans-serif;
+}
+
+.body {
+    background-color: #FFFAF3;
+}
+.navigationbar {
+    background-color: #FFD5A3;
+    margin-top: -10px;
+    margin-right: px;
+    margin-left: -5px;
+    box-shadow: black;
+}
+
+.illustrator {
+    margin-top: 10px;
+    padding-right: 0%;
+}
+
+.for-you {
+    margin-left: 20px;
+    padding-bottom: 0px;
+    text-decoration: none;
+    font-size: large;
+    color: #403D3D;
+}
+
+.explore {
+    margin-left: 20px;
+    margin-top: 0px;
+    text-decoration: none;
+    font-size: large;
+    color: #403D3D;
+}
+
+.tok {
+    padding-left: 270px;
+    margin-top: -25px;
+}
+
+
+.tik {
+    padding-left: 170px;
+    margin-top: -25px;
+}
+
+.searchbar {
+    height: 35px;
+    width: 350px;
+    border-radius: 50px;
+    padding-left: 20px;
+    border-style: none;
+}
+
+.buts{
+    padding-left: 1000px;
+    padding-bottom: 10px;
+}
+
+.logins {
+    width: 150px;
+    height: 35px;
+    border-radius: 50px;
+    border-style: none;
+    background-color: white;
+}
+
+.getsized {
+    height: 35px;
+    width: 35px;
+    float: right;
+    margin-top: -44px;
+    margin-right: 140px;
+}
+
+.resize {
+    height: 35px;
+    width: 35px;
+    float: right;
+    margin-top: -44px;
+    margin-right: 80px;
+}
+
+.profile-picture {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    float: right;
+    margin-top: -50px;
+    margin-right: 10px;
+}
+
+.eliminatetop {
+    margin-top: -35px;
+}
+.topnav {
+    padding-left: 450px;
+    margin-top: -30px;
+
+}
+
+.log {
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+.dp {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.text-message {
+    padding-left: 80px;
+    margin-top: -45px;
+}
+
+.contact-name {
+    padding-left: 80px;
+    margin-top: -35px;
+    font-size: 20px;
+}
+
+.picture {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    float: right;
+}
+.reply {
+    float: right;
+    padding-right: 30px;
+}
+
+.individual-contact {
+    margin-top: 10px;
+    background-color: #403d3d34;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 100px;
+    cursor: pointer;
+}
+
+.individual-contact1 {
+    margin-top: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    cursor: pointer;
+}
+
+#icon {
+    color: white;
+    padding-left: 20px;    
+}
+
+.chat-box {
+    background-color: #403D3D;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 46%;
+}
+
+.text-bar {
+    height: 35px;
+    width: 880px;
+    border-radius: 50px;
+    padding-left: 20px;
+    border-style: none;
+    margin-left: 20px;
+}
+
+.chat-screen {
+    width: 1000px;
+    border-style: groove;
+    float: right;
+    height: 565px;
+}
+
+.contacts {
+    float: left;
+}
